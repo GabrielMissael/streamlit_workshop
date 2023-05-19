@@ -42,6 +42,6 @@ Si te atascas en algún punto o quieres ver una posible solución, puedes dirigi
 
 Tu objetivo final debería ser algo como esto:
 
-[Streamlit App link](https://tigrehacks-workshop.streamlit.app/) 🔗
+[Streamlit App link](https://workshop-tigrehacks.streamlit.app/) 🔗
 
 #### ¡Happy coding! 🚀🚀🚀
