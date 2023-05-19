@@ -6,4 +6,8 @@ seaborn
 ipykernel
 scikit-learn
 scikit-image
-
+transformers
+ultralytics
+tqdm
+sentencepiece
+urllib3
