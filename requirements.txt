@@ -10,4 +10,4 @@ transformers
 ultralytics
 tqdm
 sentencepiece
-urllib3
+opencv-python
