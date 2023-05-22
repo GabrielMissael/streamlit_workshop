@@ -1,5 +1,10 @@
 import streamlit as st
 
+st.sidebar.title('Solución')
+st.sidebar.image('examples/5.jpg')
+
+st.sidebar.markdown('*Hecho por Missa*')
+
 st.markdown('''
     # Creando Web Apps Interactivas con Streamlit 💻🌐
     -----
